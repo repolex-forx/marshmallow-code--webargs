@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/marshmallow-code/webargs/commit/dd2bc377182b1094ff9330b29eba26e7a04da3d5",
       "git:hexsha": "dd2bc377182b1094ff9330b29eba26e7a04da3d5",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/marshmallow-code/webargs/commit/c67172b06cc5e637dde262a88702345c95aef5fa",
